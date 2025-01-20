@@ -134,3 +134,4 @@ Looking to contribute? Please check out the [Contribution Guide](CONTRIBUTING.md
 
 [![Star History Chart](https://api.star-history.com/svg?repos=onyx-dot-app/onyx&type=Date)](https://star-history.com/#onyx-dot-app/onyx&Date)
 # next-mind-test
+# next-mind-test
